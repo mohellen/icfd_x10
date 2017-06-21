@@ -1,0 +1,13 @@
+.settings*
+.cproject
+.project
+bin
+lib
+build
+preprocessed
+out
+%@
+analyzed
+*.cc
+*.h
+*.trace

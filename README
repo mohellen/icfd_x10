@@ -1,0 +1,13 @@
+Prerequisite:
+- Install InvadeSIM
+- run the "environment.sh"
+
+To compile:
+$ make
+
+To run:
+$ make run
+or 
+$ ./bin/Main 
+
+NOTE: should run in main dir because the architecture.conf file is needed.
